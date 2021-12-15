@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  --body-color: #c4b6fd;
+  --body-color: #81d8d0;
   --font: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
   background-color: var(--bg);
   font-family: var(--font);
@@ -20,7 +20,7 @@ body.light {
   --header: var(--body-color);
   --textNormal: #2c3e50;
   --textTitle: #2c3e50;
-  --textLink: #a88bfa;
+  --textLink: #81d8d0;
   --hr: hsla(0, 0%, 0%, 0.2);
   --inlineCode-bg: #f8f8f8;
   --inlineCode-text: #d63200;

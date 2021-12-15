@@ -34,8 +34,7 @@ class Layout extends React.Component {
           <Link
             style={{
               boxShadow: "none",
-              textDecoration: "none",
-              color: `rgb(196, 182, 253)`,
+              textDecoration: "none"
             }}
             to={"/"}
           >
@@ -58,7 +57,7 @@ class Layout extends React.Component {
             style={{
               boxShadow: "none",
               textDecoration: "none",
-              color: "#c4b6fd",
+              color: "#81d8d0",
             }}
             to={"/"}
           >

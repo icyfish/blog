@@ -111,7 +111,7 @@ module.exports = {
         short_name: `Fish`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#a88bfa`,
+        theme_color: `#81d8d0`,
         display: `minimal-ui`,
         icon: `static/images/icon.png`, // This path is relative to the root of the site.
       },
