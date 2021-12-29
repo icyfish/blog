@@ -29,13 +29,13 @@ ul.table_list {
 }
 .table_list a:hover {
   transition-duration: 300ms;
-  color: rgba(167, 139, 250, 1);
+  color: var(--textLink);
   text-decoration: none;
 }
 
 .table_list a.active {
   transition-duration: 300ms;
-  color: rgba(167, 139, 250, 1);
+  color: var(--textLink);
   text-decoration: none;
   border-radius: 0.125rem;
 }
