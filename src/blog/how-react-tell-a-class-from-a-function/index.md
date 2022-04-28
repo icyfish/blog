@@ -2,7 +2,7 @@
 title: React 如何区分类组件和函数式组件?
 date: "2020-01-15"
 template: "post"
-draft: false
+draft: true
 category: "React"
 description: "How Does React Tell a Class from a Function?"
 ---

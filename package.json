@@ -6,10 +6,11 @@
   "license": "0BSD",
   "scripts": {
     "start": "yarn clean && npm run develop",
-    "build": "yarn clean && gatsby build",
+    "build": "yarn clean && gatsby build ",
+    "build:site": "yarn clean && gatsby build --prefix-paths",
     "develop": "gatsby develop",
     "serve": "yarn clean && gatsby serve",
-    "deploy": "yarn clean && gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "yarn build:site && gh-pages -d public",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "clean": "rm -rf public && rm -rf .cache",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
