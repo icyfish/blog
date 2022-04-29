@@ -2,7 +2,7 @@
 title: 函数式组件和类式组件的区别
 date: "2021-07-06"
 template: "post"
-draft: false
+draft: true
 toc: true
 description: "How Are Function Components Different from Classes?"
 ---
