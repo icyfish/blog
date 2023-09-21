@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Fish's Blog"}},"allMarkdownRemark":{"edges":[{"node":{"excerpt":"","fields":{"slug":"/closure/"},"wordCount":{"words":6},"timeToRead":1,"frontmatter":{"date":"January 25, 2023","title":"Closure","description":""}}},{"node":{"excerpt":"有时，你必须进入别人的世界去发现自己的世界缺少什么。 触不可及 Intouchables","fields":{"slug":"/intouchables/"},"wordCount":{"words":5},"timeToRead":1,"frontmatter":{"date":"January 23, 2023","title":"Intouchables","description":"感情有很多种，不是每一种都有名字的。"}}},{"node":{"excerpt":"Sky  Happiness  Braveness","fields":{"slug":"/first-day/"},"wordCount":{"words":6},"timeToRead":1,"frontmatter":{"date":"January 22, 2023","title":"First Day","description":"感受生命中的一切。"}}}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Fish's Blog"}},"allMarkdownRemark":{"edges":[]}},"pageContext":{}},
     "staticQueryHashes": ["2841359383","3257411868"]}
