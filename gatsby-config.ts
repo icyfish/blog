@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `Fish's Blog`,
     siteTitleAlt: `Fish's Blog`,
     siteHeadline: `Fish's Blog`,
-    siteUrl: `to update`,
+    siteUrl: `https://icyfish.github.io/blog/`,
     siteDescription: `Fish's Blog`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
